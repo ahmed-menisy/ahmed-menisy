@@ -9,7 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [https://ahmed-menisy.github.io/menisy/](https://ahmed-menisy.github.io/menisy/)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/18yT7pndH5fD9Jx4E_0DvmkM1WKQBNwvr/view?usp=sharing](https://drive.google.com/file/d/18yT7pndH5fD9Jx4E_0DvmkM1WKQBNwvr/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
