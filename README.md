@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmed-menisy" alt="ahmed-menisy" /></a> </p>
 
-- 🌱 I’m currently learning **backend .Net , React**
 
 - 👨‍💻 All of my projects are available at [https://ahmed-menisy.github.io/menisy/](https://ahmed-menisy.github.io/menisy/)
 
